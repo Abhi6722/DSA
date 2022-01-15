@@ -112,6 +112,11 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      /* algolia: {
+        apiKey: '1b22fa823f22b7916528edc0e36d9d4a',
+        indexName: 'webdriver',
+        appId: 'BH4D9OD16A'
+    }, */
     }),
 };
 
