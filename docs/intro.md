@@ -74,3 +74,25 @@ Step 4: If D ≥ 0
               Display rp+j(ip) and rp-j(ip) as roots
 Step 5: Stop  
 ```
+***
+
+## What is Data Structure?
+The data structure name indicates itself that organizing the data in memory. There are many ways of organizing the data in the memory as we have already seen one of the data structures, i.e., array in C language. Array is a collection of memory elements in which data is stored sequentially, i.e., one after another. In other words, we can say that array stores the elements in a continuous manner. This organization of data is done with the help of an array of data structures. There are also other ways to organize the data in memory. Let's see the different types of data structures.
+
+The data structure is not any programming language like C, C++, java, etc. It is a set of algorithms that we can use in any programming language to structure the data in the memory.
+
+### Major Operations
+The major or the common operations that can be performed on the data structures are:
+
+- **Searching:** We can search for any element in a data structure.
+- **Sorting:** We can sort the elements of a data structure either in an ascending or descending order.
+- **Insertion:** We can also insert the new element in a data structure.
+- **Updation:** We can also update the element, i.e., we can replace the element with another element.
+- **Deletion:** We can also perform the delete operation to remove the element from the data structure.
+
+### Advantages of Data structures
+The following are the advantages of a data structure:
+
+- **Efficiency:** If the choice of a data structure for implementing a particular ADT is proper, it makes the program very efficient in terms of time and space.
+- **Reusability:** The data structure provides reusability means that multiple client programs can use the data structure.
+- **Abstraction:** The data structure specified by an ADT also provides the level of abstraction. The client cannot see the internal working of the data structure, so it does not have to worry about the implementation part. The client can only see the interface.

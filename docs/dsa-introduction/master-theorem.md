@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 7
 ---
 # Master Theorem
 In this tutorial, you will learn what master theorem is and how it is used for solving recurrence relations.
