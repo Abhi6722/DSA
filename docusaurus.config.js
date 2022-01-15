@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
   organizationName: 'Abhi6722', // Usually your GitHub org/user name.
   projectName: 'DSA', // Usually your repo name.
 
@@ -46,7 +46,7 @@ const config = {
         title: 'DSA',
         logo: {
           alt: 'DSA',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
