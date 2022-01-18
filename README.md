@@ -1,6 +1,6 @@
 # DSA
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This repository contains all of my progress while learning DS. I have tried to note down as much information as possible and I hope it will benifit others. My goal behind this project was making it a complete open source and believe you will also contribute to this documentation and share your knowledge. This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
