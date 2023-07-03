@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DSA',
   tagline: 'Learn DSA With Me',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://dsa-abhi6722.vercel.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -112,11 +112,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      /* algolia: {
-        apiKey: '1b22fa823f22b7916528edc0e36d9d4a',
-        indexName: 'webdriver',
-        appId: 'BH4D9OD16A'
-    }, */
+      algolia: {
+        apiKey: 'd20c4d234f53b070326b666ed39a7cc7',
+        indexName: 'dsa',
+        contextualSearch: true,
+        appId: '3R9KV3UE2F'
+    }, 
     }),
 };
 
