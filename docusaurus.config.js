@@ -115,7 +115,7 @@ const config = {
       algolia: {
         apiKey: 'd20c4d234f53b070326b666ed39a7cc7',
         indexName: 'dsa',
-        contextualSearch: true,
+        contextualSearch: false,
         appId: '3R9KV3UE2F'
     }, 
     }),
