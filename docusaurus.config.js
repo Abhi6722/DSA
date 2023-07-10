@@ -53,7 +53,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'DSA',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -106,7 +106,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} DSA. Built with 💛 by Abhi`,
+        copyright: `Copyright © ${new Date().getFullYear()} DSA. Built with 💛`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -122,3 +122,6 @@ const config = {
 };
 
 module.exports = config;
+
+
+// docker run -it --env-file=.env -e "CONFIG=$(cat config.json | jq -r tostring)" algolia/docsearch-scraper
