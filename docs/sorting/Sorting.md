@@ -55,3 +55,4 @@ Bubble Sort is a comparision based sorting technique in which we run the first l
 ### Insertion Sort
 Insertion Sort is a comparision based sorting technique in which we divide the array into two part. We take the second element as key and then consider the first as sorted and then we run the loop and take the key and compare in the sorted part of array and place it at the correct position and run the loop until j>=0 and shift each element one place forward and outside the second loop assign the j+1 position to the key.
 
+

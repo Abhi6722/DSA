@@ -136,3 +136,4 @@ int summation (int arr[])
 }  
 ```
 The above program defines a function named as summation which accepts an array as an argument. The function calculates the sum of all the elements of the array and returns it.
+

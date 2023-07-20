@@ -55,4 +55,3 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 It uses markdown so you can add and edit contents in markdown so for details visit [here.](https://dsa-abhi6722.vercel.app/docs/tutorial-basics/create-a-page)
-

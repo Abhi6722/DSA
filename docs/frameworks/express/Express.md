@@ -408,3 +408,4 @@ Here are the endpoints along with sample request bodies to test in Postman:
 11. **How can I handle file uploads in Express.js?**
     
     To handle file uploads in Express.js, we can use the `multer` middleware. Multer allows you to handle multipart/form-data, which is the format used for file uploads.
+    

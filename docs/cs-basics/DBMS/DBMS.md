@@ -139,3 +139,4 @@ No, a `NULL` value is very different from that of zero and blank space as it rep
 - **Entity:** An entity is defined as a real-world object having attributes that represent characteristics of that particular object.
 - **Entity Type:** An entity type is defined as a collection of entities that have the same attributes.
 - **Entity Set:** An entity set can be defined as a set of all the entities present in a specific entity type in a database.
+

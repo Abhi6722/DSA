@@ -165,3 +165,4 @@ There are 2 rules which must be followed while you code with Hooks:
 
 - React Hooks must be called only at the top level. It is not allowed to call them inside the nested functions, loops, or conditions.
 - It is allowed to call the Hooks only from the React Function Components
+

@@ -770,3 +770,4 @@ from-> join-> where-> group by-> having ->select-> distinct-> order by ->limit
 - **ZF (Zero Fill)**: Add zeros in front of numeric values to fill the width of a column.
 - **AI (Auto Increment)**: Automatically assigns a unique and increasing value to new row.
 - **G (Generated)**: Value that is automatically computed based on an expression or algorithm defined in the table schema.
+

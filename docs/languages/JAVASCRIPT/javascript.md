@@ -355,3 +355,4 @@ console.log(pattern.test(text)); // true
 5. **`parseFloat()`**: Parses a string and returns a floating-point number.
 
 [JavaScript Cheat Sheet & Quick Reference](https://quickref.me/javascript)
+

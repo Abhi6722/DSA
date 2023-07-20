@@ -66,3 +66,5 @@ The master theorem cannot be used if:
 - f(n) is not a polynomial. eg. f(n) = 2n
 - a is not a constant. eg. a = 2n
 - a < 1
+  
+  

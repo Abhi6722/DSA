@@ -75,3 +75,4 @@ The time complexity of linear search is O(n) because every element in the array 
 | Space Complexity   |        O(1)     |
 
 - The space complexity of linear search is O(1).
+

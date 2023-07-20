@@ -162,6 +162,7 @@ server - i=location where these files are stored
 
 url- https:// - tells what kind of connection to make with the server 
 
+
 google.com- domain name 
 
 1. type url on the browser 

@@ -93,3 +93,4 @@ sidebar_position: 1
 10. **What are the common tools and technologies used in cloud computing?**
     
     Common tools and technologies in cloud computing include Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), OpenStack, VMware, Kubernetes for container orchestration, Terraform for infrastructure provisioning, monitoring and logging tools like Prometheus and ELK stack, and various programming languages and frameworks for application development and deployment.
+

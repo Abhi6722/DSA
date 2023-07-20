@@ -89,3 +89,4 @@ Now, let's see the time complexity of binary search in the best case, average ca
 Binary search has a space complexity of O(1) because it does not require any additional space that grows with the size of the input. The space complexity remains constant, regardless of the size of the array.
 
 It's important to note that the above time and space complexities of binary search assume that the array is already sorted. If the array is unsorted, sorting it beforehand using an efficient sorting algorithm would add an additional time complexity of O(n log n) or O(n^2), depending on the sorting algorithm used.
+
