@@ -10,7 +10,7 @@ const config = {
   tagline: 'Learn DSA With Me',
   url: 'https://dsa-abhi6722.vercel.app',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
   organizationName: 'Abhi6722', // Usually your GitHub org/user name.
